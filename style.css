@@ -1,0 +1,36 @@
+body {
+  font-family: "Georgia", helvetica, arial, sans-serif;
+  margin: 3vw;
+}
+
+h1 {
+  color: DodgerBlue;
+}
+
+h2 {
+  color: Crimson;
+}
+
+.Logo {
+  text-align:left;
+  width:48vw;
+}
+  
+
+.main{
+  display:flex;
+  justify-content: space-around;
+  height:70vh
+}
+
+.left, .right{
+  width:46vw;
+}
+.img{
+  height: 40vh;
+  width: auto;
+  margin: 3vh 0;
+}
+  
+ 
+  
